@@ -150,6 +150,29 @@ expo build:ios
 expo build:android
 ```
 
+## 📝 How to Use
+
+1. **Install dependencies**  
+  Run `npm install` in the project directory.
+
+2. **Start the app**  
+  Use `npm start` to launch the Expo development server.
+
+3. **Open on your device or emulator**  
+  - For iOS: Run `npm run ios`
+  - For Android: Run `npm run android`
+  - For web: Run `npm run web`
+
+4. **Authenticate**  
+  Use biometric authentication (Face ID/Touch ID) if prompted.
+
+5. **Manage your data**  
+  - Add, search, filter, group, and sort your lists using the intuitive UI.
+  - Enjoy smooth performance even with large datasets.
+
+6. **Log out or exit**  
+  Safely close the app when finished.
+
 ## 🤝 Contributing
 
 1. Fork the repository
